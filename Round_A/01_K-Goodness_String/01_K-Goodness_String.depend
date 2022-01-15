@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642249195 source:c:\users\felix\onedrive - universität zürich uzh\privat\google_kickstart_2021\round_a\01_k-goodness_string\main.c
+	<stdio.h>
+	<stdlib.h>
+
