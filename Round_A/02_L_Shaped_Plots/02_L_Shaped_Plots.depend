@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642788670 source:c:\users\felix\onedrive - universität zürich uzh\privat\google_kickstart_2021\round_a\02_l_shaped_plots\main.c
+	<stdio.h>
+	<stdlib.h>
+
